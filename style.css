@@ -25,7 +25,7 @@
     height: 100%;
     position: absolute;
     right: 0;
-    animation: water 10s linear infinite;
+    animation: water 15s linear infinite;
 }
 
 @keyframes water {
@@ -78,7 +78,7 @@
     height: 230px;
     position: absolute;
     right: 0;
-    animation: cloud 10s linear infinite;
+    animation: cloud 12s linear infinite;
 }
 
 @keyframes cloud {
